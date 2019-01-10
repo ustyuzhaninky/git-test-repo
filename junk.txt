@@ -1,1 +1,0 @@
-Hello, I am a junk file! No one likes me. Git will deal with me soon.
